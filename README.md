@@ -2,7 +2,7 @@
 <h3 align="center">
   :mortar_board: Student @Faculty of Computing and Information Science [FCIS]
   <br>
-:bulb: Product Assurance Manager & Inspector @Vetox
+:bulb: Quality Manager & Tester @Vetox
 <br>
 👨‍💻 Technical Support & Translator @Vetox & ProBot
 <br></h3>
