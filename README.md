@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=engmohamedtarek1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=engmohamedtarek1&theme=juicyfresh&text_color=e7a917&title_color=e7a917&no-frame=false&no-bg=true&margin-w=8)
 
 ## ✍️ Random Dev Quote
 
