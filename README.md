@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
-<h3 align="center">
-  :mortar_board: Student @Faculty of Computing and Information Science [FCIS]
+<h1 align="center">Hello 👋, I'm Mohamed Tarek</h1>
+<p>
+  A <strong>Frontend</strong> freelance developer and an advocate for building <strong>responsive</strong>, <strong>accessible</strong> and <strong>inclusive</strong> digital products and experiences for the web based. <br />
+  ◦ Excellent problem-solving abilities and expertise in optimizing web performance. <br />
+  ◦ Strong communication skills and the ability to collaborate effectively with cross-functional teams. <br />
+  ◦ Committed to staying updated with the latest industry trends and technologies to deliver cutting-edge solutions. <br />
+</p>
+
+# 👨‍💻 Current Roles:
+
+<p>:mortar_board: Student @Faculty of Computing and Information Science [FCIS]
   <br>
 :bulb: Product Assurance Manager, Tester & Head of Language Services @Vetox
 <br>
-👨‍💻 Community Moderator & Translator @ProBot
-<br></h3>
+👨‍💻 Community Moderator & Translator @ProBot</p>
 
 
 # 💻 Tech Stack:
@@ -15,16 +22,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GIT](https://img.shields.io/badge/GIT-e84e31.svg?style=for-the-badge&logo=git&logoColor=white) <br />
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-ccc.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Github](https://img.shields.io/badge/Github-e84e31.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=engmohamedtarek1&show_icons=true&theme=dark&text_color=ccc&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=engmohamedtarek1&theme=dark&text_color=ccc&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=engmohamedtarek1&theme=dark&text_color=ccc&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=engmohamedtarek1&theme=juicyfresh&text_color=e7a917&title_color=e7a917&no-frame=false&no-bg=true&margin-w=8)
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=ccc&)
 
