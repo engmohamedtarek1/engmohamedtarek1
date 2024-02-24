@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mohamed Tarek</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed Tarek</h1>
 <p>
   A <strong>Frontend</strong> freelance developer and an advocate for building <strong>responsive</strong>, <strong>accessible</strong> and <strong>inclusive</strong> digital products and experiences for the web based. <br />
   ◦ Excellent problem-solving abilities and expertise in optimizing web performance. <br />
