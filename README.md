@@ -1,10 +1,10 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed Tarek</h1>
-<p>
+
   A <strong>Frontend</strong> freelance developer and an advocate for building <strong>responsive</strong>, <strong>accessible</strong> and <strong>inclusive</strong> digital products and experiences for the web based. <br />
-  ◦ Excellent problem-solving abilities and expertise in optimizing web performance. <br />
+  ◦ Excellent problem-solving skills. (take a look for my [SOLUTIONS](https://github.com/engmohamedtarek1/problems-solutions)) <br /> 
+  ◦ Expertise in optimizing web performance. <br />
   ◦ Strong communication skills and the ability to collaborate effectively with cross-functional teams. <br />
   ◦ Committed to staying updated with the latest industry trends and technologies to deliver cutting-edge solutions. <br />
-</p>
 
 # 👨‍💻 Current Roles:
 
