@@ -10,9 +10,9 @@
 
 <p>:mortar_board: Student @Faculty of Computing and Information Science [FCIS]
   <br>
-:bulb: Product Assurance Manager, Tester & Head of Language Services @Vetox
+:bulb: CEO, Product Assurance Manager & Tester @Vetox
 <br>
-👨‍💻 Community Moderator & Translator @ProBot</p>
+👨‍💻 Former Admin and Vice Director of the Arabic Department @ProBot</p>
 
 
 # 💻 Tech Stack:
