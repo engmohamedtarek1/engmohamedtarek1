@@ -17,7 +17,7 @@ I'm a **Software Engineer** specializing in **frontend development**, passionate
 🎯 **Software Engineer @ [Medical Islands](https://www.medicalislands.com/)** – Crafting seamless, high-performance, and visually engaging digital experiences.  
 🎯 **Frontend Engineer @ Programs House** – Building dynamic, high-performance web applications.  
 📚 **Student @ Faculty of Computing and Information Science (FCIS)** – Expanding knowledge in computing.  
-🚀 **Former CEO, Product Assurance Manager @ [Vetox](https://vetox.io/)** – Leading product quality and innovation.  
+🚀 **Former CEO & Product Assurance Manager @ [Vetox](https://vetox.io/)** – Leading product quality and innovation.  
 🔹 **Former Admin & Vice Director of the Arabic Department @ [ProBot](https://probot.io/)** – Contributing to community growth.  
 
 # 💻 Tech Stack:
